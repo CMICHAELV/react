@@ -1,0 +1,32 @@
+.box-container1{
+    width: 100px;
+    height: 70px;
+    background-color: blue;
+}
+.box-container2{
+    width: 100px;
+    height: 70px;
+    background-color: brown;
+}
+.box-container3{
+    width: 100px;
+    height: 70px;
+    background-color: aqua;
+}
+.box-container4{
+    width: 100px;
+    height: 70px;
+    background-color: green;
+}
+@media (min-width: 481px) and (max-width: 1024) {
+    body{
+        background-color: beige;
+    }
+    
+}
+@media (min-width: 786) and (max-width: 1024) {
+    body{
+        background-color: blue;
+    }
+    
+}
